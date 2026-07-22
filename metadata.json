@@ -1,0 +1,6 @@
+{
+  "name": "Assistente de Escrita Profissional",
+  "description": "Um assistente inteligente para analisar, corrigir, melhorar e reescrever textos profissionais de forma natural e clara.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
